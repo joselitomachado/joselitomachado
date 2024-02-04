@@ -5,7 +5,7 @@
 ## Meu nome é Joselito Machado
 ( Futuro Desenvolvedor Backend )
 
-- 👩‍💻 Atualmente estou aprendendo C# e .NET
+- 👩‍💻 Atualmente estou aprendendo C#
 - 🌐 Apaixonado por programação e tecnologia
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas @ [Estacio](https://estacio.br/)
 
