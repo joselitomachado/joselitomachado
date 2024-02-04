@@ -7,7 +7,7 @@
 
 - 👩‍💻 I'm currently learning C#
 - 🌐 Passionate about programming and technology
-- 🎓 Systems Analysis and Development Student @ [Estacio](https://estacio.br/)
+- 🎓 Systems Analysis and Development Student @ Estacio
 
 #
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joselitomachado)
