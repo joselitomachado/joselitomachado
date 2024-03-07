@@ -5,7 +5,7 @@
 ## Me chamo Joselito
 ( Futuro Desenvolvedor Backend )
 
-- 👩‍💻 Atualmente estou aprendendo C#
+- 👩‍💻 Atualmente estou aprendendo C#, .NET, SQL Server
 - 🌐 Apaixonado por programação e tecnologia
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas @Estácio
 
