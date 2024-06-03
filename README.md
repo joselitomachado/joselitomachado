@@ -4,7 +4,7 @@
 
 ## Me chamo Joselito
 
-- 👩‍💻 Atualmente estou aprendendo C#, .NET e SQL Server
+- 👩‍💻 Desenvolvedor Backend
 - 🌐 Apaixonado por programação e tecnologia
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas @Estácio
 
